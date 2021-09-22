@@ -12,18 +12,18 @@
 
 **Linguagens e Ferramentas:** 
 <div style="display: inline_block">
-<img align="center" alt="idias-Swift" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">
+<img align="center" alt="idias-Swift" src="https://img.icons8.com/color/48/000000/swift.png"/>
+<img align="center" alt="idias-MYsql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="center" alt="idias-sql" src="https://img.icons8.com/color/48/000000/sql.png"/>
+<img align="center" alt="idias-c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="center" alt="idias-pyton" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <br> 
+<img align="center" alt="idias-Xcode" src="https://img.icons8.com/color/48/000000/xcode.png"/>
+<img align="center" alt="idias-VS" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </div>
 
 
 ##  Contato ou Siga-me
-<div>
-  <a href="https://linktr.ee/gohdias">
-  <img src="https://img.icons8.com/color/48/000000/linktree.png"/>
-</div>
-<div>
-  <a href="igorfdias02@gmail.com">
-  <img src="https://img.icons8.com/nolan/48/upload-2.png"/>
-</div>
+  <a href="https://linktr.ee/gohdias"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>  <a href="mailto:igorfdias02@gmail.com"><img src="https://img.icons8.com/nolan/48/about.png"/></a>
 
 
