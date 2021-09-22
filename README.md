@@ -24,6 +24,6 @@
 
 
 ##  Contato ou Siga-me
-  <a href="https://linktr.ee/gohdias"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>  <a href="mailto:igorfdias02@gmail.com"><img src="https://img.icons8.com/nolan/48/about.png"/></a>
+ <a href="mailto:igorfdias02@gmail.com"><img src="https://img.icons8.com/nolan/48/about.png"/></a>  <a href="https://linktr.ee/gohdias"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a> 
 
 
