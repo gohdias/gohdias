@@ -16,6 +16,7 @@
 <img align="center" alt="idias-MYsql" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img align="center" alt="idias-sql" src="https://img.icons8.com/color/48/000000/sql.png"/>
  <img align="center" alt="idias-html5"src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="center" alt="idias-css" src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img align="center" alt="idias-js" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="center" alt="idias-c" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="center" alt="idias-pyton" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
